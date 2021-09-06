@@ -255,6 +255,7 @@ These classes can be extended with them: `responsive-testimonials__img-box`, `re
 - [Elegant Age Verification – Responsive age-gate plugin for WordPress](https://1.envato.market/ag5YM)
 - [GDPR Cookie Law – Responsive JavaScript GDPR Consent Plugin](https://1.envato.market/qRo6n)
 - [GDPR Cookie Law – GDPR Cookie Compliance jQuery Plugin](https://1.envato.market/50vqn)
+- [Elegant Scroll to Top – Back to Top JavaScript Plugin](https://1.envato.market/mg2my1)
 - [Elegant Elements – jQuery HTML Form Plugin](https://1.envato.market/j695n)
 - [AudioJungle – Royalty free sounds](https://audiojungle.net/user/jablonczay/portfolio)
 - [Responsive Testimonials for jQuery](https://github.com/jablonczay/responsive-testimonials-for-jquery/)
